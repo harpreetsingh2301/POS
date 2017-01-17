@@ -7,7 +7,7 @@ $terminal=new Terminal();
 
 
 $terminal->setPricing('A',2);
-$terminal->setPricing('A',4,7);
+$terminal->setPricing('A',7,4);
 $terminal->setPricing('B',12);
 $terminal->setPricing('C',1.25);
 $terminal->setPricing('C',6,6);
